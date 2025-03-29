@@ -1,5 +1,0 @@
-Workaround 8080 error : 
-
-netstat -a -n -o | findstr 8080
-
-Taskkill /PID 39468 /F
